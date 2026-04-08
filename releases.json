@@ -1,7 +1,23 @@
 {
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "min_supported": "1.0.0",
   "releases": [
+    {
+      "version": "1.0.1",
+      "released": "2026-04-08T19:00:00",
+      "title": "V1.0.1 更新",
+      "summary": "修复若干已知问题，优化界面交互体验",
+      "detail_url": "https://github.com/OxMagic/compound-engine-releases/releases/tag/v1.0.1",
+      "frontend_url": null,
+      "backend_url": null,
+      "force_update": false,
+      "changelog": [
+        "修复模型模式切换异常",
+        "优化置信度区间统计显示",
+        "新增在线更新检查功能",
+        "提升页面加载速度"
+      ]
+    },
     {
       "version": "1.0.0",
       "released": "2026-04-08T18:00:00",
