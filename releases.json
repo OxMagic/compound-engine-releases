@@ -1,0 +1,23 @@
+{
+  "latest": "1.0.0",
+  "min_supported": "1.0.0",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "released": "2026-04-08T18:00:00",
+      "title": "V1.0.0 正式版",
+      "summary": "复利引擎首个正式版本",
+      "detail_url": "https://github.com/OxMagic/compound-engine-releases/releases/tag/v1.0.0",
+      "frontend_url": null,
+      "backend_url": null,
+      "force_update": false,
+      "changelog": [
+        "68个本地ML模型预测",
+        "BTC事件合约实时预测",
+        "置信度区间胜率统计",
+        "云端数据聚合",
+        "注册码权限系统"
+      ]
+    }
+  ]
+}
